@@ -1,0 +1,11 @@
+node_modules/
+
+# Runtime output and saved GUI settings
+engine.log
+last_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

@@ -1,0 +1,12 @@
+{
+  "name": "botfarm",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "engine": "node engine.mjs",
+    "gui": "python gui.py"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0"
+  }
+}
